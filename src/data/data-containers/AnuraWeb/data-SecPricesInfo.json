@@ -1,0 +1,22 @@
+[
+    {
+        "Round":2,
+        "dollar":"+5%",
+        "bonus":"5% Above"
+    },
+    {
+        "Round":3,
+        "dollar":"+10%",
+        "bonus":"10% Above"
+    },
+    {
+        "Round":4,
+        "dollar":"+15%",
+        "bonus":"15% Above"
+    },
+    {
+        "Round":5,
+        "dollar":"+20%",
+        "bonus":"20% Above"
+    }
+]

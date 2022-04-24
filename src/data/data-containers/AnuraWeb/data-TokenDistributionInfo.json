@@ -1,0 +1,33 @@
+[
+    {
+        "ClassName":"info-wrapper one",
+        "Num":"2.3",
+        "descr":"Initial Contributors"
+    },
+    {
+        "ClassName":"info-wrapper two",
+        "Num":"10",
+        "descr":"Development Team"
+    },
+    {
+        "ClassName":"info-wrapper four",
+        "Num":"17.7",
+        "descr":"Treasury"
+    },
+    {
+        "ClassName":"info-wrapper five",
+        "Num":"20",
+        "descr":"LP Allocation"
+    },
+    {
+        "ClassName":"info-wrapper three",
+        "Num":"20",
+        "descr":"Staking Emissions"
+    },
+    {
+        "ClassName":"info-wrapper six",
+        "Num":"30",
+        "descr":"Presale Offering"
+    }
+
+]
