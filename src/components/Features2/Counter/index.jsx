@@ -9,13 +9,13 @@ const Counter = ({icoCounterClass}) => {
             <div className="counter-down">
               <div className="content">
                 <div className="conuter-header">
-                  <h3 className="w-text text-center">$RIBT LAUNCH</h3>
+                  <h3 className="w-text text-center">$RIBT PRESALE ENDS</h3>
                 </div>
                 <div className="counterdown-content">
                   <div className="count-down titled circled text-center" >
                     <SlideCountdown
                       weeks={false}
-                      deadline="2022-04-24 17:00:00" />
+                      deadline="2022-04-29 17:00:00" />
                   </div>
                   <div className="ico-progress">
                     <ul className="list-unstyled list-inline clearfix mb-10">
