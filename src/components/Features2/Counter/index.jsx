@@ -12,7 +12,7 @@ const Counter = ({icoCounterClass}) => {
                   <h3 className="w-text text-center">$RIBT LAUNCH</h3>
                 </div>
                 <div className="counterdown-content">
-                  <div className="count-down titled circled text-center">
+                  <div className="count-down titled circled text-center" >
                     <SlideCountdown
                       weeks={false}
                       deadline="2022-04-24 17:00:00" />
