@@ -273,7 +273,7 @@ ol {
     width: 8px;
     height: 8px;
     border-radius: 2em 2em 2em 2em;
-    background-color: #21d397;
+    background-color: #02aa72;
     box-shadow: 0 0 5px #fff;
     -webkit-transform-origin: 50% 50%;
     transform-origin: 50% 50%;
@@ -669,7 +669,7 @@ ol {
     z-index: 1;
 }
 .has-gradient{
-    background-image: linear-gradient(to right, #21d397 0%, #1096d0 100%);
+    background-image: linear-gradient(to right, #02aa72 0%, #1096d0 100%);
 }
 .has-border-top{
     border-top: 1px solid #eee
@@ -1792,7 +1792,7 @@ ol {
     position: absolute;
     top: 0px;
     right: -10px;
-    background:#21d397 ;
+    background:#02aa72 ;
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -3671,10 +3671,7 @@ ol {
     padding: 45px 40px;
     border-radius: 20px
 }
-.ico-counter.dotted-bg{
-    background: url(../img/bg-img/dotted-bg.jpg) no-repeat;
-    background-size: cover;
-}
+
 .counter-map{
     position: relative;
 }
@@ -4224,25 +4221,7 @@ body.light-version {
 .token .service_single_content .service_icon img{
     height: 100%
 }
-.fuel-features{
-    position: relative;
-    overflow: hidden;
-}
-.fuel-features:after{
-    content: '';
-    position: absolute;
-    width: 100%;
-    height: 70%;
-    left: 0;
-    bottom: 0;
-    background: url(../img/bg-img/screen6.jpg) no-repeat center center;
-    background-size: cover;
-    z-index: -1
-}
-.fuel-features .container.has-shadow{
-    padding: 50px 30px 20px;
-    background: #061e1e
-}
+
 .light-version #scrollUp:before {
     position: absolute;
     width: 30%;
@@ -4277,7 +4256,6 @@ body.light-version {
 .light-version .client_slides .owl-dot.active {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
-
 
 /* demo page */
 .demo-item {

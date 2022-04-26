@@ -1,9 +1,6 @@
 import{
-  FooterPattern,
   FooterLogo
 } from '../../../utils/allImgs'
-
-import SectionHeading from "../../../components/SectionHeading"
 
 import '../Footer.scss'
 
@@ -13,8 +10,8 @@ import TextFooter from '../../../data/data-layout/Footer/data-TextFooter.json'
 const FooterPages = ({ClassSpanTitle=""}) => {
     return (
 
-      <footer className="footer-area bg-img mt-5" style={{backgroundImage: `url(${FooterPattern})`}}>
-        <div className="footer-area bg-img" style={{backgroundImage: `url(${FooterPattern})`}}>
+      <footer className="footer-area bg-img mt-5">
+        <div className="footer-area bg-img">
           <div className="footer-content-area demo">
             <div className="container">
               <div className="row ">

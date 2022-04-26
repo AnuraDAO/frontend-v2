@@ -1,5 +1,4 @@
 import{
-  FooterPattern,
   FooterLogo
 } from '../../../utils/allImgs'
 
@@ -13,7 +12,7 @@ const FooterHome = () => {
 
   return (
 
-    <footer className="footer-area bg-img" style={{backgroundImage: `url(${FooterPattern})`}}>
+    <footer className="footer-area bg-img">
       <div className="footer-content-area demo">
         <div className="container">
           <div className="row ">

@@ -11,7 +11,7 @@ const AboutUs = ({firstClass , data , img}) => {
                       <img draggable="false" src={item.img} alt="" />
                     </div>
                     <h3><a className="normal" href={item.path}>{item.title}</a></h3>
-                    <p className="text">Lorem ipsum dolor sit amet, consectetur adipisicin elit. Laudantium modi assumenda beatae provide nt.</p>
+                    <p className="text">PLACEHOLDER</p>
                   </div>
                 </div>
               ))}

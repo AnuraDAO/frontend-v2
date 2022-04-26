@@ -74,8 +74,6 @@ const AnuraWebContainer = () => {
         <div className="clearfix" />
         <SpreadMap whitepaper={AnuraWebwhitepaper}/>
 
-        {/* <TokenDistribution data={TokenDistributionInfo} /> */}
-
         <Roadmap data={RoadmapInfo} />
         <Faq data={FaqInfo} />
         <FooterPages />
