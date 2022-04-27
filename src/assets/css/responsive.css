@@ -1,5 +1,4 @@
 /* Large Version */
-
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .welcome-content h2 {
         font-size: 42px;
@@ -44,8 +43,8 @@
         display: none;
     }
 }
-/* Medium Version */
 
+/* Medium Version */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .welcome_area {
         height: 700px !important;
@@ -78,7 +77,6 @@
 }
 
 /* Mobile Version */
-
 @media only screen and (max-width: 767px) {
     .login-btn {
         margin: 30px;
@@ -192,8 +190,7 @@
         -webkit-transform: scale(1);
         transform: scale(1);
     }
-    
-    .welcome-content h2 {
+        .welcome-content h2 {
         font-size: 30px;
     }
     .dream-btn {
@@ -206,7 +203,6 @@
     }
    
 }
-
 @media only screen and (min-width: 576px) and (max-width: 767px) {
     .welcome-content h2 {
         font-size: 36px;

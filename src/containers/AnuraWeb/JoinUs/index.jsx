@@ -1,12 +1,8 @@
 import {AnuraWebJoinBottom} from "../../../utils/allImgs"
-
 import SectionHeading from "../../../components/SectionHeading"
-
 import Join from "./Join"
 
-
 const OurJoinUs = ({OurJoinUsFirst , OurJoinUsSecond}) => {
-
   return (
 
     <section className="join-us section-padding-0-100 clearfix" id="services">
