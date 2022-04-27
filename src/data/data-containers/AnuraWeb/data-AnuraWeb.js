@@ -44,7 +44,7 @@ export const Services = [
     },
     {
         img:AnuraWebFeature6,
-        title:"Active Protocol Development",
+        title:"Active Development",
         ptext:"High-volume development pipeline and community engagement for consistent protocol updates and growth."
     },
     {
