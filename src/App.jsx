@@ -1,16 +1,14 @@
 import React, {useEffect} from "react";
-import {Helmet} from "react-helmet";
 import { Routes ,Route } from 'react-router-dom';
 import Aos from 'aos'
-
 import AnuraWeb from './pages/AnuraWeb'
-
 import 'aos/dist/aos.css';
 import './assets/css/General.css';
 import './assets/css/bootstrap.min.css';
 import './assets/css/responsive.css';
 
 import 'bootstrap/dist/js/bootstrap.bundle.min';
+
 
 
 const App = () => {

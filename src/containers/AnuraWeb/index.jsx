@@ -1,6 +1,5 @@
 import {useEffect} from "react";
 import {addRemoveClassBody} from '../../utils'
-
 import {
         Services,
         Features2InfoTop,
@@ -33,7 +32,7 @@ import SecPrices from '../../components/SecPrices'
 import Roadmap from '../../components/Roadmap'
 import Faq from '../../components/Faq'
 import OurServices from "./OurServices"
-
+import initEthers from "../../components/Crypto/wallet";
 const AnuraWebContainer = () => {
 
     useEffect(() => {
@@ -41,9 +40,12 @@ const AnuraWebContainer = () => {
     },[])
 
     return (
-      
+ 
+
       <div>
+     
         
+    
         <Header Title="Anura Finance" />
         <SecHeroSection
           ClassSec="hero-section moving section-padding"
@@ -77,8 +79,10 @@ const AnuraWebContainer = () => {
         <Roadmap data={RoadmapInfo} />
         <Faq data={FaqInfo} />
         <FooterPages />
+        
       </div>
     );
 };
+initEthers();
 
 export default AnuraWebContainer
