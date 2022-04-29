@@ -56,12 +56,12 @@ const AnuraWebContainer = () => {
           img={AnuraWebPlatform1}
         />
         <div className="clearfix" />
-        <Features2
+        {/* <Features2
             icoCounterClass="ico-counter mb-30"
             Features2InfoTop={Features2InfoTop}
             Features2InfoDown={Features2InfoDown}
-        />
-        <SecPrices data={SecPricesInfo} />
+        /> */}
+        {/* <SecPrices data={SecPricesInfo} /> */}
         <SecAbout
           imgDwon={false}
           title=""
