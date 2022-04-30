@@ -29,7 +29,7 @@ const Counter = ({icoCounterClass}) => {
                     <span className="pull-right">Total Presale Allocation</span>
                   </div>
                   <div className="text-center">
-                    <a className="btn dream-btn mt-30 fadeInUp" data-wow-delay="0.6s" href="https://presale.anuradao.finance/" target="_blank" rel="noreferrer noopener">Buy $RIBT</a>
+                    <a className="btn dream-btn mt-30 fadeInUp" data-wow-delay="0.6s" href="https://traderjoexyz.com/trade?outputCurrency=0x302Abf007C2045F1bC0867a4b7abaaE2152e0EB3#/" target="_blank" rel="noreferrer noopener">Buy $RIBT</a>
                   </div>
                 </div>
               </div>
