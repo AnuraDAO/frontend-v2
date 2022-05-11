@@ -23,7 +23,7 @@ const SecHeroSection = ({
                 <h1>{title}</h1>
                 <p className="w-text fadeInUp" data-wow-delay="0.3s">A governance-first organization bringing stable investment opportunities with consistent returns to decentralized finance.</p>
                 <div className="dream-btn-group fadeInUp" data-wow-delay="0.4s">
-                  <a href="https://docs.anuradao.finance" className="btn more-btn mr-3">{link1}</a>
+                  <a href="https://roasted.anuradao.finance" className="btn more-btn mr-3">{link1}</a>
                   <a href="https://traderjoexyz.com/trade?outputCurrency=0x302Abf007C2045F1bC0867a4b7abaaE2152e0EB3#/" target="_blank" rel="noreferrer noopener" className="btn more-btn">{link2}</a>
                 </div>
               </div>

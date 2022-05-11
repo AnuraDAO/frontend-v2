@@ -51,7 +51,7 @@ const AnuraWebContainer = () => {
           ClassSec="hero-section moving section-padding"
           ClassDiv="col-12 col-lg-5 col-md-12"
           title="Anura"
-          link1="Whitepaper"
+          link1="Roasted Chiknz"
           link2="Buy $RIBT"
           img={AnuraWebPlatform1}
         />
